@@ -17,3 +17,6 @@
 [submodule "oxdnsupdate"]
 	path = oxdnsupdate
 	url = git@github.com:neonix20b/oxdnsupdate.git
+[submodule "oxfilter"]
+	path = oxfilter
+	url = git@github.com:neonix20b/oxfilter.git
