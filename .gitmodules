@@ -11,3 +11,6 @@
 	path = oxpanel
 	url = git://github.com/neonix20b/oxpanel.git
 
+[submodule "oxwhd"]
+	path = oxwhd
+	url = git@github.com:neonix20b/oxwhd.git
