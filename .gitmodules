@@ -20,3 +20,9 @@
 [submodule "oxfilter"]
 	path = oxfilter
 	url = git@github.com:neonix20b/oxfilter.git
+[submodule "oxstatsd"]
+	path = oxstatsd
+	url = git@github.com:neonix20b/oxstatsd.git
+[submodule "oxserviced"]
+	path = oxserviced
+	url = git@github.com:neonix20b/oxserviced.git
