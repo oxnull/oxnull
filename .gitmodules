@@ -1,0 +1,12 @@
+[submodule "flex_irc"]
+	path = flex_irc
+	url = ./flex_irc
+[submodule "flex_main"]
+	path = flex_main
+	url = ./flex_main/
+[submodule "oxmain"]
+	path = oxmain
+	url = ./oxmain
+[submodule "oxpanel"]
+	path = oxpanel
+	url = ./oxpanel/
