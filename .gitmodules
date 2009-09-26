@@ -1,12 +1,13 @@
 [submodule "flex_irc"]
 	path = flex_irc
-	url = ./flex_irc
+	url = git://github.com/neonix20b/flex_irc.git
 [submodule "flex_main"]
 	path = flex_main
-	url = ./flex_main/
+	url = git://github.com/neonix20b/flex_main.git
 [submodule "oxmain"]
 	path = oxmain
-	url = ./oxmain
+	url = git://github.com/neonix20b/oxmain.git
 [submodule "oxpanel"]
 	path = oxpanel
-	url = ./oxpanel/
+	url = git://github.com/neonix20b/oxpanel.git
+
