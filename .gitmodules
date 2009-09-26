@@ -14,3 +14,6 @@
 [submodule "oxwhd"]
 	path = oxwhd
 	url = git@github.com:neonix20b/oxwhd.git
+[submodule "oxdnsupdate"]
+	path = oxdnsupdate
+	url = git@github.com:neonix20b/oxdnsupdate.git
