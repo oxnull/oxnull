@@ -26,3 +26,6 @@
 [submodule "oxserviced"]
 	path = oxserviced
 	url = git@github.com:neonix20b/oxserviced.git
+[submodule "oxmaind"]
+	path = oxmaind
+	url = git@github.com:neonix20b/oxmaind.git
