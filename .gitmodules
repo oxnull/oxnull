@@ -1,6 +1,3 @@
-[submodule "flex_irc"]
-	path = flex_irc
-	url = git://github.com/neonix20b/flex_irc.git
 [submodule "flex_main"]
 	path = flex_main
 	url = git://github.com/neonix20b/flex_main.git
@@ -32,3 +29,6 @@
 [submodule "oxtools"]
 	path = oxtools
 	url = git@github.com:neonix20b/oxtools.git
+[submodule "flex_irc"]
+	path = flex_irc
+	url = git@github.com:neonix20b/flex_irc.git
