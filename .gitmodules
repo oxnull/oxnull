@@ -16,7 +16,7 @@
 	url = git@github.com:neonix20b/oxdnsupdate.git
 [submodule "oxfilter"]
 	path = oxfilter
-	url = git@github.com:neonix20b/oxfilter.git
+	url = git@github.com:/neonix20b/oxfilter.git
 [submodule "oxstatsd"]
 	path = oxstatsd
 	url = git@github.com:neonix20b/oxstatsd.git
@@ -31,4 +31,4 @@
 	url = git@github.com:neonix20b/oxtools.git
 [submodule "flex_irc"]
 	path = flex_irc
-	url = git@github.com:neonix20b/flex_irc.git
+	url = git@github.com:/neonix20b/flex_irc.git
