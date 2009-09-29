@@ -32,3 +32,6 @@
 [submodule "flex_irc"]
 	path = flex_irc
 	url = git@github.com:/neonix20b/flex_irc.git
+[submodule "oxpackages"]
+	path = oxpackages
+	url = git@github.com:neonix20b/oxpackages.git
