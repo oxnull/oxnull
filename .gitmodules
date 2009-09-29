@@ -35,3 +35,6 @@
 [submodule "oxpackages"]
 	path = oxpackages
 	url = git@github.com:neonix20b/oxpackages.git
+[submodule "oxdb"]
+	path = oxdb
+	url = git@github.com:neonix20b/oxdb.git
