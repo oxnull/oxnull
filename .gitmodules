@@ -10,31 +10,31 @@
 
 [submodule "oxwhd"]
 	path = oxwhd
-	url = git@github.com:neonix20b/oxwhd.git
+	url = git://github.com/neonix20b/oxwhd.git
 [submodule "oxdnsupdate"]
 	path = oxdnsupdate
-	url = git@github.com:neonix20b/oxdnsupdate.git
+	url = git://github.com/neonix20b/oxdnsupdate.git
 [submodule "oxfilter"]
 	path = oxfilter
-	url = git@github.com:/neonix20b/oxfilter.git
+	url = git://github.com//neonix20b/oxfilter.git
 [submodule "oxstatsd"]
 	path = oxstatsd
-	url = git@github.com:neonix20b/oxstatsd.git
+	url = git://github.com/neonix20b/oxstatsd.git
 [submodule "oxserviced"]
 	path = oxserviced
-	url = git@github.com:neonix20b/oxserviced.git
+	url = git://github.com/neonix20b/oxserviced.git
 [submodule "oxmaind"]
 	path = oxmaind
-	url = git@github.com:neonix20b/oxmaind.git
+	url = git://github.com/neonix20b/oxmaind.git
 [submodule "oxtools"]
 	path = oxtools
-	url = git@github.com:neonix20b/oxtools.git
+	url = git://github.com/neonix20b/oxtools.git
 [submodule "flex_irc"]
 	path = flex_irc
-	url = git@github.com:/neonix20b/flex_irc.git
+	url = git://github.com/neonix20b/flex_irc.git
 [submodule "oxpackages"]
 	path = oxpackages
-	url = git@github.com:neonix20b/oxpackages.git
+	url = git://github.com/neonix20b/oxpackages.git
 [submodule "oxdb"]
 	path = oxdb
-	url = git@github.com:neonix20b/oxdb.git
+	url = git://github.com/neonix20b/oxdb.git
